@@ -12,4 +12,4 @@ No campo da inteligência artificial e **processamento de linguagem natural (PLN
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Uma das primeiras tarefas que recebi ao iniciar meu estágio foi contribuir para o desenvolvimento de um **agente inteligente** para auxiliar aplicações na área de engenharia (simulações em engenharia. Dado a complexidade do tema, esse projeto nasce como projeto de estudo para melhorar as capacidades 
+Uma das primeiras tarefas que recebi ao iniciar meu estágio foi contribuir para o desenvolvimento de um **agente inteligente** para auxiliar aplicações na área de engenharia (simulações em engenharia). Dado a complexidade do tema, esse projeto nasce como projeto de estudo para melhorar as habilidades necessárias para a conclusão da tarefa.
